@@ -1,5 +1,5 @@
 ## Hi, Welcome to my GitHub! 👋
-
+I'm Vitor! I'm passionated about programming, since my 7º grade I've been studying it, I started with JavaScript, and now I'm learning Java/SpringBoot, my goal is to become a sênior fullstack developper, since I love work on code, I'd love to be able to do both front-end and back-end at the same time! I find it so cool! Looking forward to soon work as a developer and develop my coding skills!
 ## About me
 
 - 🔭 I’m currently working on SND as a Cloud Trainee
