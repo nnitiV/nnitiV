@@ -9,7 +9,7 @@
 - 💬 Ask me about anything you want, I'd love to talk with you!
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love learning new languages, I'm currently studying Japanese/French, and I'm passionated about coding! I also play transversal flute (side-blown flute) and I even taught some people to play it! (if you want to learn, reach me out, maybe I can help you 😊)
-- 📫 How to reach me: Right below ⬇
+- 📫 How to reach me later on ⬇
 
 ## Tools & Technologies
 
