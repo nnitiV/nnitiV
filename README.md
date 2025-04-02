@@ -1,5 +1,4 @@
 ## Hi, Welcome to my GitHub! 👋
-![octocat-1743636195744](https://github.com/user-attachments/assets/29fd8ae5-1ca6-4fb3-867b-d34cf5cf851b)
 
 ## About me
 
